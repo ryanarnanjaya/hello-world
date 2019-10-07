@@ -2,4 +2,5 @@
 just a repository.
 
 Branches are cool.
-\nWow!
+
+Wow!
